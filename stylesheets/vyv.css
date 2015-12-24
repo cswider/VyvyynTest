@@ -1,0 +1,122 @@
+/*.nav {
+	border: 1px solid red
+}*/
+.nav a {
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+	display: inline;
+}
+
+/*.container {
+	border: 1px dashed blue;
+}*/
+
+.jumbotron {
+  background:url('http://www.wallpaperinfinite.com/upload/wallpaper_images/sphynx%20cat%20wallpaper99709.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*border: 1px solid red;*/
+  background-attachment: fixed;
+  margin-bottom: 0px;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.third-space {
+  background:url('http://i.imgur.com/2FDHi6o.jpg');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /*border: 1px solid red;*/
+  background-attachment: fixed;
+}
+
+.third-space .container {
+  position: relative;
+  top:100px;
+}
+
+.third-space h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.third-space .container {
+  position: relative;
+  top:100px;
+}
+
+.third-space h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.third-space p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.learn-more {
+  background-color: #f7f7f7;
+}
+
+.learn-more h3 {
+  font-family: 'Shift', sans-serif;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.learn-more a {
+  color: #00b0ff;
+}
+
+.second-space {
+    background-color: #efefef;
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.second-space h2 {
+    color: #393c3d;
+    font-size: 24px;
+}
+
+.second-space p {
+    font-size: 15px;
+    margin-bottom: 13px;
+}
