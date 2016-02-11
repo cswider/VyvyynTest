@@ -2,14 +2,14 @@
 	border: 1px solid red
 }*/
 .nav a {
-  font-weight: bold;
+  color: #5a5a5a;
+  font-size: 11px;
   padding: 14px 10px;
-  text-transform: uppercase;
+}
+.nav li {
+  display: inline;
 }
 
-.nav li {
-	display: inline;
-}
 
 /*.container {
 	border: 1px dashed blue;
